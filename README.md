@@ -1,4 +1,4 @@
-#####  Question and answer form similar to the old "ask.fm".
+####  Question and answer form similar to the old "ask.fm".
 
 Was used:
 
