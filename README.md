@@ -1,2 +1,9 @@
-# simple-question-and-answer-form
-First Project of the Node.js Course - By Victor Lima - Guia do Programador
+#####  Question and answer form similar to the old "ask.fm".
+
+Was used:
+
+- Node.js
+- EJS
+- Bootstrap
+- MySql
+- Sequelize
